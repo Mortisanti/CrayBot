@@ -1159,7 +1159,7 @@ lore_list = [
     ('The Last Exit', 'Alien Turret Life-form', 'https://i.imgur.com/eLiLWc1.jpg', desc89)
 ]
 
-choice = random.choice(lore_dictionary)
+choice = random.choice(lore_list)
 level = choice[0]
 short_desc = choice[1]
 img_url = choice[2]
