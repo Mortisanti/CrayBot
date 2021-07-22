@@ -1,6 +1,4 @@
 import random
-from pprint import pprint
-
 
 desc0 = '''Biological Containment Canister Specifications
 
@@ -26,7 +24,7 @@ desc2 = '''Human DNA chains have restructured resulting in extreme and rapid cel
 
 Pathogen - highly evolved variation of TSE ("transmissible spongiform encephalopathies"). This variation appears to attack all organs as well as the skin.  
 
-Related pathogen families: BSE ("mad cow disease"), CJD("Creutzfeldt-Jakob disease").  
+Related pathogen families: BSE ("mad cow disease"), CJD ("Creutzfeldt-Jakob disease").  
 
 Pathogen biology - malformed protein molecule (infectious prion).
 
@@ -210,7 +208,7 @@ desc20 = '''From the Offices of Internal Affairs and Information Services, ISD
 Prepared for President Ronald Reagan
 April 1, 1984
 
-The Groom Lake Weapons Testing Facility was the next campus to be constructed after the hanger area. After the development of the U-2 spyplane, there was extreme pressure from John Foster Dulles, the secretary of state under President Dwight D. Eisenhower, to develop a high altitude weapon/payload system suitable for the U-2. Technology that we recovered and restored from a crash incident in New Mexico became invaluable in jump-starting our efforts into early beam and direct energy weapons. The weapons facility was constructed and tuned to handle testing of such weapons. The facility was rebuilt in 1967, after a weapons test resulted in a run-away chain reaction. The reaction phase-shifted the molecular structure of the support beams, causing a devastating collapse and inflicting serious casualties. Among the dead were Victor Helmann, Dr. Winston Cray's technical assistant, and weapons/propulsion specialist Anna Lenowitz, weapons project leader and wife of Fredrick Henry White. Lately, the testing facility has been home to the Aurora weapons project.'''
+The Groom Lake Weapons Testing Facility was the next campus to be constructed after the hangar area. After the development of the U-2 spyplane, there was extreme pressure from John Foster Dulles, the secretary of state under President Dwight D. Eisenhower, to develop a high altitude weapon/payload system suitable for the U-2. Technology that we recovered and restored from a crash incident in New Mexico became invaluable in jump-starting our efforts into early beam and direct energy weapons. The weapons facility was constructed and tuned to handle testing of such weapons. The facility was rebuilt in 1967, after a weapons test resulted in a run-away chain reaction. The reaction phase-shifted the molecular structure of the support beams, causing a devastating collapse and inflicting serious casualties. Among the dead were Victor Helmann, Dr. Winston Cray's technical assistant, and weapons/propulsion specialist Anna Lenowitz, weapons project leader and wife of Fredrick Henry White. Lately, the testing facility has been home to the Aurora weapons project.'''
 
 desc21 = '''Lab Report: Biochemistry Analysis (Jul 14)
 Department of Molecular Biology
@@ -254,7 +252,7 @@ Importance: High
 
 FOR OFFICIAL USE ONLY 
 
-We have translated the bulk of the documents and files. All seem to be standard eyewitness accounts and indirect testimonials. We are including an excerpt from a document dated June 24, 1987. This documents the recovery of a partially destroyed craft found 200 feet below the area in Tunguska, Siberia where in 1908, 850 square miles of forest was flattened followed by a massive shock wave that caused seismic vibrations for as far away as 600 miles. Up until 1981, the accepted belief was that a large meteor was responsible. In 1981, a new expedition set out to explore the cause of severe seismic activity in the area. Apparently, the activity resulted in the collapse of a deep cavern. It is in this cavern that the ship was found. The assumption by the Russians was that the craft impacted the earth at such a velocity that it burrowed 200 feet into the mountainside.  However, this theory was soon over-turned as contradictory evidence was discovered once the craft was excavated and moved to a large and remote Siberian military base. Carbon dating of the rock imbedded in the craft's alloy skin show the sample to be 10,000 to 11,000 years old while the surrounding rock samples at that depth are Carbon dated at 19,000 years old. The position of the craft was found to be nearly level with the surface which would be impossible to achieve during a chaotic impact at high speed. Furthermore, several pipe-like structures attached to the craft were embedded in the surrounding rock as if to anchor or provide minerals to the occupants of the craft. These discoveries pointed to an astonishing conclusion - that the craft did not crash into the mountainside. The craft was purposely inserted into the mountainside 10,000 to 11,000 years earlier. Further investigation revealed a cause of the destruction and resulting shockwave in 1908.  Damage found on the craft was limited to the top rear quarter and not on the bottom. The molten damage to the alloy skin and the rock bed above the craft resembled the effect of a directly applied, highly concentrated heat source - much like that of a powerful laser or particle beam weapon. It is possible that the craft was actually fired upon in its hiding position by another craft. This is alarming as it suggests that more than one EBE species has occupied earth. Unfortunately, pictures of the recovered craft were not included with the KGB files. We are not sure if this craft is associated with the EBEs that we deal with now.'''
+We have translated the bulk of the documents and files. All seem to be standard eyewitness accounts and indirect testimonials. We are including an excerpt from a document dated June 24, 1987. This documents the recovery of a partially destroyed craft found 200 feet below the area in Tunguska, Siberia where in 1908, 850 square miles of forest was flattened followed by a massive shock wave that caused seismic vibrations for as far away as 600 miles. Up until 1981, the accepted belief was that a large meteor was responsible. In 1981, a new expedition set out to explore the cause of severe seismic activity in the area. Apparently, the activity resulted in the collapse of a deep cavern. It is in this cavern that the ship was found. The assumption by the Russians was that the craft impacted the earth at such a velocity that it burrowed 200 feet into the mountainside.  However, this theory was soon over-turned as contradictory evidence was discovered once the craft was excavated and moved to a large and remote Siberian military base. Carbon dating of the rock imbedded in the craft's alloy skin shows the sample to be 10,000 to 11,000 years old while the surrounding rock samples at that depth are Carbon dated at 19,000 years old. The position of the craft was found to be nearly level with the surface which would be impossible to achieve during a chaotic impact at high speed. Furthermore, several pipe-like structures attached to the craft were embedded in the surrounding rock as if to anchor or provide minerals to the occupants of the craft. These discoveries pointed to an astonishing conclusion - that the craft did not crash into the mountainside. The craft was purposely inserted into the mountainside 10,000 to 11,000 years earlier. Further investigation revealed a cause of the destruction and resulting shockwave in 1908.  Damage found on the craft was limited to the top rear quarter and not on the bottom. The molten damage to the alloy skin and the rock bed above the craft resembled the effect of a directly applied, highly concentrated heat source - much like that of a powerful laser or particle beam weapon. It is possible that the craft was actually fired upon in its hiding position by another craft. This is alarming as it suggests that more than one EBE species has occupied earth. Unfortunately, pictures of the recovered craft were not included with the KGB files. We are not sure if this craft is associated with the EBEs that we deal with now.'''
 
 desc24 = '''From: Ministry of Enlightenment and Truth
 Sent: Thursday, March 2, 1994 11:35 PM
@@ -755,7 +753,7 @@ Power Source: AEE
 Description. The BBG is the highest-powered weapon in The DarkOp arsenal (reserved for RedOps and the occasional key BlackOp who has undergone special training). The BBG fires a stream of violet energy projectiles with such cohesion that they can bounce off surfaces. Any modification of this weapon was difficult, but we have managed to discover a triggerable targeting feature which costs energy, but indicates where the spheres will ricochet. Also, this targeting beam seems to send information back to the weapon, as targeting organic lifeforms turns the green beam to red. Originally called the Ballistic Barrage Gun by scientists, it has since been renamed more appropriately the Meson Autorifle.
 
 Fire rate: 3.3 spheres/sec 
-Energy study: the full range of properties of AEE energy are unknown. Element 311 is the first element on the 20th row on the (now-expanded) Periodic Table (assuming the higher elements observe heavy-metal properties). There are no elements known to humankind between element 118 (ununoctium) and 311, perhaps quietly indicating the gap in our levels of technology. (Even ununoctium itself has never been synthesized more that once, as dictated by scientific method.) Given the relative instability of known elements, perhaps the gap is merely an indication of one of the first stable superelements.'''
+Energy study: the full range of properties of AEE energy are unknown. Element 311 is the first element on the 20th row on the (now-expanded) Periodic Table (assuming the higher elements observe heavy-metal properties). There are no elements known to humankind between element 118 (ununoctium) and 311, perhaps quietly indicating the gap in our levels of technology. (Even ununoctium itself has never been synthesized more than once, as dictated by scientific method.) Given the relative instability of known elements, perhaps the gap is merely an indication of one of the first stable superelements.'''
 
 desc62 = '''GROOM LAKE FILE. AT-71
 
@@ -1050,7 +1048,7 @@ desc87 = '''Placard under the model shows a series of indecipherable symbols. Be
 
 "Series KWXX-7 Survey Ship. Apply fluid TG-280 to activate. Do not activate in enclosed area. Contents expand on activation.'''
 
-desc88 = '''Pan Dimensional Galactic portal has been calibrated to local surface coordinates 37�35.641' 115�53.924'.
+desc88 = '''Pan Dimensional Galactic portal has been calibrated to local surface coordinates 37°35.641' 115°53.924'.
 
 Dimensional settings include correction for temporal variance. Calibrate the Terra Actualization Meter to 1824.769.
 
@@ -1159,13 +1157,12 @@ lore_list = [
     ('The Last Exit', 'Alien Turret Life-form', 'https://i.imgur.com/eLiLWc1.jpg', desc89)
 ]
 
-choice = random.choice(lore_list)
-level = choice[0]
-short_desc = choice[1]
-img_url = choice[2]
-long_desc = choice[3]
+class lore:
 
-print(f"Level: {level}")
-print(f"Title: {short_desc}")
-print(f"Image: {img_url}")
-print(f"Description: {long_desc}")
+    def get_lore():
+        choice = random.choice(lore_list)
+        level = choice[0]
+        short_desc = choice[1]
+        img_url = choice[2]
+        long_desc = choice[3]
+        return level, short_desc, img_url, long_desc
