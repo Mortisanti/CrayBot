@@ -1,3 +1,7 @@
+#TODO Make a commands table embed
+#TODO Consider adding option for video secrets. Embeds can have videos
+#TODO Figure out if there's a better way to deal with long descriptions in embeds
+
 import discord
 import os
 from lore import lore
@@ -20,13 +24,11 @@ async def databank(ctx):
         title=short_desc,
         description=long_desc,
         color=0x00ffd9,
-        url=img_url,
+        url=img_url
         )
     databank_embed.set_image(url=img_url)
     databank_embed.set_footer(text=f"From the Level: {level}", icon_url=footer_icon_url)
     await ctx.send(embed=databank_embed)
-
-# Consider adding option for video secrets!!! Embeds can have videos
 
 keep_alive()
 craybot.run(os.environ['DISCORD_TOKEN'])
