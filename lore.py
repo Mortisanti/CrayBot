@@ -1,5 +1,7 @@
 import random
 
+#region
+
 desc0 = '''Biological Containment Canister Specifications
 
 Using a liquid methane / nitrogen mixture for suspending specimens at an internal temperature of - 200C
@@ -1063,6 +1065,8 @@ We humbly request a dedicated telepathic channel for these, our newest citizens.
 May Ascension Serve the Race,
 Honored Engineer Sub-Class'''
 
+#endregion
+
 
 lore_list = [
     ('Welcome to Dreamland', 'Canister Specifications', 'https://i.imgur.com/ACeRJFT.jpg', desc0),
@@ -1159,10 +1163,21 @@ lore_list = [
 
 class lore:
 
-    def get_lore():
-        choice = random.choice(lore_list)
+    def get_lore(entry=None):
+        if entry is None:
+            choice = random.choice(lore_list)
+        else:
+            choice = lore_list[entry-1]
         level = choice[0]
         short_desc = choice[1]
         img_url = choice[2]
         long_desc = choice[3]
         return level, short_desc, img_url, long_desc
+
+    def get_lore_list():
+        count = 0
+        trimmed_lore_list = ""
+        for x in lore_list:
+            count += 1
+            trimmed_lore_list += f"{count}) {x[0]}: {x[1]}\n"
+        return trimmed_lore_list
