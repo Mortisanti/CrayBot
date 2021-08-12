@@ -9,7 +9,8 @@ import requests
 from lore import lore
 from keep_alive import keep_alive
 from discord_slash import SlashCommand
-from discord_slash.utils.manage_commands import create_option, create_choice
+from discord_slash.utils.manage_commands import create_option
+
 
 craybot = discord.Client(activity=discord.Game(name='with Aliens'), intents=discord.Intents.default())
 slash = SlashCommand(craybot, sync_commands=True)
@@ -20,7 +21,6 @@ async def on_ready():
 
 
 embed_footer_icon = 'https://i.imgur.com/VpMy8Yr.gif'
-
 
 # Petition Status
 @slash.slash(name="petition", description="Check the current signature-count on the Remaster Area 51 petition.")
